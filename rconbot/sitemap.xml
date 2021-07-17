@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https:// arconianmoogly.github.io/rconbot/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://arconianmoogly.github.io/rconbot/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https:// arconianmoogly.github.io/rconbot/</loc>
+<loc>https://arconianmoogly.github.io/rconbot/</loc>
 </url>
 <url>
-<loc>https:// arconianmoogly.github.io/rconbot/bot-usage.html</loc>
+<loc>https://arconianmoogly.github.io/rconbot/bot-usage.html</loc>
 <lastmod>2021-07-17T01:28:54-04:00</lastmod>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\2//someone_reporting.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\2//someone_reporting.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_channel.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_channel.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_response.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_response.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_follow_up.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\2//mod_mail_follow_up.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// arconianmoogly.github.io/rconbot/mod-dashboard.html</loc>
+<loc>https://arconianmoogly.github.io/rconbot/mod-dashboard.html</loc>
 <lastmod>2021-07-17T01:08:59-04:00</lastmod>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\1/users-list.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\1/users-list.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// arconianmoogly.github.io/rconbot/media\posts\1/ticket-list.png</image:loc>
+<image:loc>https://arconianmoogly.github.io/rconbot/media\posts\1/ticket-list.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

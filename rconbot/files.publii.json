@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "297c07edcf393fb96ba3099573c9a662"
+        "md5": "de6d8cc6e55505086dc38f2f2d35a7ef"
     },
     {
         "path": "assets",
@@ -107,27 +107,27 @@
     {
         "path": "/authors/moogly/index.html",
         "type": "file",
-        "md5": "5cc9723ede2f37314ba7ef3b860124f2"
+        "md5": "44281d18d0d95d799c89508f4dd280e2"
     },
     {
         "path": "bot-usage.html",
         "type": "file",
-        "md5": "378f753122a95662c6e3304dc719f77d"
+        "md5": "bf67650fadf1ca0db5c0f62abdaccb0b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8907f66e9a5edda77959eb8c2b19ff67"
+        "md5": "3d5584289a2b4aefa3ea48e3b7c6626c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d96cc59f0ec07e1ea0f5bfcaa8de6357"
+        "md5": "03150d115b62d002cd39fa302153e15d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "acf0e4e68dfdf36af9034872904dba3b"
+        "md5": "466e697944ef16b5fc0ea9a26c01e4fb"
     },
     {
         "path": "media",
@@ -372,22 +372,22 @@
     {
         "path": "mod-dashboard.html",
         "type": "file",
-        "md5": "1f11ce038c10bf78c29216f32596fbe6"
+        "md5": "2063dcb8fb9bbb45798f2415294c9923"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "df17a6a9eace63fa2dd1934b4fec0b0d"
+        "md5": "1839b9710e13b8c36f23974215215587"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "c8c874c19ea11614e366f8a5548ad7e2"
+        "md5": "b5d2e355677521c4f9b04f4bb332fae0"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a0e83fd3c8613d4e92fe1803a76ef1cb"
+        "md5": "6745ec481f7e9cc8241282c5f0d52cd5"
     },
     {
         "path": "sitemap.xsl",
@@ -402,6 +402,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0f6f22941838704ed6bc6fd6e3e59d0e"
+        "md5": "e5f3dc6e7b78f3cd5ae9405e4487e349"
     }
 ]
